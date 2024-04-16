@@ -72,7 +72,7 @@ function App() {
                 margin: 15,
                 borderRadius: 10
             }} >
-                Try on TestFlight
+                Try with TestFlight
             </div>
         </div>
         <img src={searchResults} className="App-logo" alt="logo"/>
