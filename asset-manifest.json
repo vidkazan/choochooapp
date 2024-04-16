@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/choochooapp/static/css/main.9f585f2f.css",
-    "main.js": "/choochooapp/static/js/main.997e8007.js",
+    "main.js": "/choochooapp/static/js/main.4052cd86.js",
     "static/media/JourneyMapDetails.png": "/choochooapp/static/media/JourneyMapDetails.687c2a199262e3cd7245.png",
     "static/media/PickOnMap.png": "/choochooapp/static/media/PickOnMap.8edf4ca7fa51e46da488.png",
     "static/media/StopDepartures.png": "/choochooapp/static/media/StopDepartures.c94018469dd2d1bb59ca.png",
@@ -11,10 +11,10 @@
     "static/media/Logo1024.jpg": "/choochooapp/static/media/Logo1024.195b1f30d448d4555e31.jpg",
     "index.html": "/choochooapp/index.html",
     "main.9f585f2f.css.map": "/choochooapp/static/css/main.9f585f2f.css.map",
-    "main.997e8007.js.map": "/choochooapp/static/js/main.997e8007.js.map"
+    "main.4052cd86.js.map": "/choochooapp/static/js/main.4052cd86.js.map"
   },
   "entrypoints": [
     "static/css/main.9f585f2f.css",
-    "static/js/main.997e8007.js"
+    "static/js/main.4052cd86.js"
   ]
 }
