@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/choochooapp/static/css/main.9f585f2f.css",
-    "main.js": "/choochooapp/static/js/main.9c58c526.js",
-    "static/media/JourneyMapDetails.png": "/choochooapp/static/media/JourneyMapDetails.43ddd44b78f3afd8598b.png",
-    "static/media/PickOnMap.png": "/choochooapp/static/media/PickOnMap.169bdc8fad2dff02426e.png",
-    "static/media/StopDepartures.png": "/choochooapp/static/media/StopDepartures.619a947a13a3f9f94bea.png",
-    "static/media/SearchResults.png": "/choochooapp/static/media/SearchResults.5e7861094a40b7234c4e.png",
-    "static/media/JourneyDetails.png": "/choochooapp/static/media/JourneyDetails.f9a3c2fb2cf3b586bf36.png",
-    "static/media/Follow.png": "/choochooapp/static/media/Follow.173e314eaf34b17ed7c8.png",
+    "main.js": "/choochooapp/static/js/main.997e8007.js",
+    "static/media/JourneyMapDetails.png": "/choochooapp/static/media/JourneyMapDetails.687c2a199262e3cd7245.png",
+    "static/media/PickOnMap.png": "/choochooapp/static/media/PickOnMap.8edf4ca7fa51e46da488.png",
+    "static/media/StopDepartures.png": "/choochooapp/static/media/StopDepartures.c94018469dd2d1bb59ca.png",
+    "static/media/SearchResults.png": "/choochooapp/static/media/SearchResults.51519b65286069a6e397.png",
+    "static/media/JourneyDetails.png": "/choochooapp/static/media/JourneyDetails.a1c6f7e1efa244cd7ea5.png",
+    "static/media/Follow.png": "/choochooapp/static/media/Follow.ff21c5666388ea250c8b.png",
     "static/media/Logo1024.jpg": "/choochooapp/static/media/Logo1024.195b1f30d448d4555e31.jpg",
     "index.html": "/choochooapp/index.html",
     "main.9f585f2f.css.map": "/choochooapp/static/css/main.9f585f2f.css.map",
-    "main.9c58c526.js.map": "/choochooapp/static/js/main.9c58c526.js.map"
+    "main.997e8007.js.map": "/choochooapp/static/js/main.997e8007.js.map"
   },
   "entrypoints": [
     "static/css/main.9f585f2f.css",
-    "static/js/main.9c58c526.js"
+    "static/js/main.997e8007.js"
   ]
 }
