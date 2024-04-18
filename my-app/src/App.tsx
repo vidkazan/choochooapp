@@ -49,7 +49,7 @@ function App() {
               alignItems: "center",
           }}>
               <div style={titleStyle as CSSProperties}>
-                  ChooChooApp
+                  ChooChoo iOS App
               </div>
               <div style={betaBadge as CSSProperties}>
                   beta
