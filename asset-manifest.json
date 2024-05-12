@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/choochooapp/static/css/main.9f585f2f.css",
-    "main.js": "/choochooapp/static/js/main.4052cd86.js",
+    "main.js": "/choochooapp/static/js/main.ad28313b.js",
     "static/media/JourneyMapDetails.png": "/choochooapp/static/media/JourneyMapDetails.687c2a199262e3cd7245.png",
     "static/media/PickOnMap.png": "/choochooapp/static/media/PickOnMap.8edf4ca7fa51e46da488.png",
     "static/media/StopDepartures.png": "/choochooapp/static/media/StopDepartures.c94018469dd2d1bb59ca.png",
@@ -9,12 +9,13 @@
     "static/media/JourneyDetails.png": "/choochooapp/static/media/JourneyDetails.a1c6f7e1efa244cd7ea5.png",
     "static/media/Follow.png": "/choochooapp/static/media/Follow.ff21c5666388ea250c8b.png",
     "static/media/Logo1024.jpg": "/choochooapp/static/media/Logo1024.195b1f30d448d4555e31.jpg",
+    "static/media/AppStoreLogo.svg": "/choochooapp/static/media/AppStoreLogo.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/choochooapp/index.html",
     "main.9f585f2f.css.map": "/choochooapp/static/css/main.9f585f2f.css.map",
-    "main.4052cd86.js.map": "/choochooapp/static/js/main.4052cd86.js.map"
+    "main.ad28313b.js.map": "/choochooapp/static/js/main.ad28313b.js.map"
   },
   "entrypoints": [
     "static/css/main.9f585f2f.css",
-    "static/js/main.4052cd86.js"
+    "static/js/main.ad28313b.js"
   ]
 }
