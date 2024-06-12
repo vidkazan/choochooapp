@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/choochooapp/static/css/main.9f585f2f.css",
-    "main.js": "/choochooapp/static/js/main.ad28313b.js",
-    "static/media/JourneyMapDetails.png": "/choochooapp/static/media/JourneyMapDetails.687c2a199262e3cd7245.png",
-    "static/media/PickOnMap.png": "/choochooapp/static/media/PickOnMap.8edf4ca7fa51e46da488.png",
-    "static/media/StopDepartures.png": "/choochooapp/static/media/StopDepartures.c94018469dd2d1bb59ca.png",
-    "static/media/SearchResults.png": "/choochooapp/static/media/SearchResults.51519b65286069a6e397.png",
-    "static/media/JourneyDetails.png": "/choochooapp/static/media/JourneyDetails.a1c6f7e1efa244cd7ea5.png",
-    "static/media/Follow.png": "/choochooapp/static/media/Follow.ff21c5666388ea250c8b.png",
+    "main.css": "/choochooapp/static/css/main.5fc6f9d2.css",
+    "main.js": "/choochooapp/static/js/main.cffc6079.js",
+    "static/media/JourneyMapDetails.jpg": "/choochooapp/static/media/JourneyMapDetails.55af1a5e315611b1007e.jpg",
+    "static/media/PickOnMap.jpg": "/choochooapp/static/media/PickOnMap.4eebd05326bd741c1b84.jpg",
+    "static/media/Recents-NearbyStops.jpg": "/choochooapp/static/media/Recents-NearbyStops.f821ba6e959aa41adad0.jpg",
+    "static/media/JourneyDetails.jpg": "/choochooapp/static/media/JourneyDetails.5037701acbd6d011dbc9.jpg",
+    "static/media/Main.jpg": "/choochooapp/static/media/Main.93e1aa00e6be1077fe67.jpg",
+    "static/media/SearchResults.jpg": "/choochooapp/static/media/SearchResults.f16bb08f16128fbbff53.jpg",
+    "static/media/Follow.jpg": "/choochooapp/static/media/Follow.9a1611a93d226cafbeba.jpg",
     "static/media/Logo1024.jpg": "/choochooapp/static/media/Logo1024.195b1f30d448d4555e31.jpg",
     "static/media/AppStoreLogo.svg": "/choochooapp/static/media/AppStoreLogo.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/choochooapp/index.html",
-    "main.9f585f2f.css.map": "/choochooapp/static/css/main.9f585f2f.css.map",
-    "main.ad28313b.js.map": "/choochooapp/static/js/main.ad28313b.js.map"
+    "main.5fc6f9d2.css.map": "/choochooapp/static/css/main.5fc6f9d2.css.map",
+    "main.cffc6079.js.map": "/choochooapp/static/js/main.cffc6079.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f585f2f.css",
-    "static/js/main.ad28313b.js"
+    "static/css/main.5fc6f9d2.css",
+    "static/js/main.cffc6079.js"
   ]
 }
